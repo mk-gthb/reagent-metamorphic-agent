@@ -1,0 +1,25 @@
+# python
+reagent/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+
+# secrets / local
+.env
+*.local.md
+.modal.toml
+
+# outputs / artifacts
+outputs/
+runs/
+*.pdb
+*.cif
+archive/
+*.png
+
+*.log
+
+!figures/*.png

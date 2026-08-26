@@ -1,0 +1,8 @@
+# Proto (design language + tools). PyPI package planned; install from source for now:
+#   pip install git+https://github.com/evo-design/proto-language.git
+modal
+biotite
+tmtools
+numpy
+# optional, for the R9 naturalness control:
+# fair-esm
