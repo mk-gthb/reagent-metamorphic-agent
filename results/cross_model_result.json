@@ -1,0 +1,83 @@
+{
+  "R9_optimized": {
+    "esm_plddt": 0.7360143065452576,
+    "esm_ptm": 0.6048988699913025,
+    "boltz": {
+      "primary_metric": "confidence_score",
+      "metric_type": "Boltz2Metrics",
+      "confidence_score": 0.5111278295516968,
+      "ptm": 0.43381765484809875,
+      "iptm": 0.0,
+      "chains_ptm": [
+        0.43381765484809875
+      ],
+      "pair_chains_iptm": [
+        [
+          0.43381765484809875
+        ]
+      ],
+      "avg_pae": 11.01193904876709,
+      "ligand_iptm": 0.0,
+      "protein_iptm": 0.0,
+      "complex_plddt": 0.5304553508758545,
+      "complex_iplddt": 0.5304553508758545,
+      "complex_pde": 1.410941243171692,
+      "complex_ipde": 0.0
+    },
+    "cross_tm": 0.4864909498226888
+  },
+  "ubiquitin(real)": {
+    "esm_plddt": 0.8579909205436707,
+    "esm_ptm": 0.828535795211792,
+    "boltz": {
+      "primary_metric": "confidence_score",
+      "metric_type": "Boltz2Metrics",
+      "confidence_score": 0.9266170859336853,
+      "ptm": 0.9168348908424377,
+      "iptm": 0.0,
+      "chains_ptm": [
+        0.9168348908424377
+      ],
+      "pair_chains_iptm": [
+        [
+          0.9168348908424377
+        ]
+      ],
+      "avg_pae": 2.437922239303589,
+      "ligand_iptm": 0.0,
+      "protein_iptm": 0.0,
+      "complex_plddt": 0.9290626049041748,
+      "complex_iplddt": 0.9290626049041748,
+      "complex_pde": 0.3236444592475891,
+      "complex_ipde": 0.0
+    },
+    "cross_tm": 0.9828653908418563
+  },
+  "FKBP12(real)": {
+    "esm_plddt": 0.9041944146156311,
+    "esm_ptm": 0.8925232887268066,
+    "boltz": {
+      "primary_metric": "confidence_score",
+      "metric_type": "Boltz2Metrics",
+      "confidence_score": 0.904335618019104,
+      "ptm": 0.8688709139823914,
+      "iptm": 0.0,
+      "chains_ptm": [
+        0.8688709139823914
+      ],
+      "pair_chains_iptm": [
+        [
+          0.8688709139823914
+        ]
+      ],
+      "avg_pae": 4.338533401489258,
+      "ligand_iptm": 0.0,
+      "protein_iptm": 0.0,
+      "complex_plddt": 0.9132018089294434,
+      "complex_iplddt": 0.9132018089294434,
+      "complex_pde": 0.5557871460914612,
+      "complex_ipde": 0.0
+    },
+    "cross_tm": 0.9623836365802823
+  }
+}
